@@ -11,23 +11,10 @@
     <h3>
        <a href="#">Joyce Kilmer</a> - 1886-1918
     </h3>
-    <p> I think that I shall never see <br>
-        A poem lovely as a tree. </p>
-	<br>
-	<p> A tree whose hungry mouth is prest <br>
-	Against the earth’s sweet flowing breast; </p>
-	<br>
-	<p> A tree that looks at God all day,<br>
-	And lifts her leafy arms to pray; </p>
-	<br>
-	<p>A tree that may in summer wear<br>
-	A nest of robins in her hair;</p>
-	<br>
+	
 	<p>Upon whose bosom snow has lain;<br>
 	Who intimately lives with rain.</p>
 	<br>
-	<p>Poems are made by fools like me,<br>
-	But only God can make a tree.</p>
 
 </body>
 </html>
